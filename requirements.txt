@@ -1,0 +1,5 @@
+#python dependencies
+matplotlib
+notebook
+numpy
+pandas

@@ -6,6 +6,7 @@
 
 Go to: https://mybinder.org/v2/gh/keckelt/Python-Scatterplot-Matrix/master
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/keckelt/Python-Scatterplot-Matrix/master)
+ and create a new notebook.
 
 ### Local
 Checkout this repo and change into the folder:
@@ -14,7 +15,7 @@ git clone https://github.com/keckelt/Python-Scatterplot-Matrix.git
 cd Python-Scatterplot-Matrix/
 ```
 
-You can reuse the environment from the tutorial:
+You can reuse the conda environment from the tutorial:
 ```
 conda activate python-tutorial
 ```
@@ -24,7 +25,7 @@ Then launch Jupyter :
 jupyter notebook
 ```
 
-Goto http://localhost:8888/ and create a new notebook
+Goto http://localhost:8888/ and create a new notebook.
 
 ## Tasks
 

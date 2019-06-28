@@ -2,6 +2,8 @@
 # Instructions
 
 ## Development Environment
+You can either work online, via MyBinder, or locally.
+
 ### MyBinder
 
 Go to: https://mybinder.org/v2/gh/keckelt/Python-Scatterplot-Matrix/master

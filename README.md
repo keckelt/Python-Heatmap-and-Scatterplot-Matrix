@@ -8,7 +8,7 @@ You can either work online, via MyBinder, or locally.
 
 Go to: https://mybinder.org/v2/gh/keckelt/Python-Scatterplot-Matrix/master
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/keckelt/Python-Scatterplot-Matrix/master)
- and open the *empty* notebook.
+ and open the *template* notebook.
 
 ### Local
 Checkout this repo and change into the folder:
@@ -27,7 +27,7 @@ Then launch Jupyter :
 jupyter notebook
 ```
 
-Goto http://localhost:8888/ and open the *empty* notebook.
+Goto http://localhost:8888/ and open the *template* notebook.
 
 ## Tasks
 1. Inspect the data and attributes, e.g., with [head()](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.head.html), and [dtypes](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.dtypes.html#pandas.DataFrame.dtypes).

@@ -13,8 +13,8 @@ Go to: https://mybinder.org/v2/gh/keckelt/Python-Scatterplot-Matrix/master
 ### Local
 Checkout this repo and change into the folder:
 ```
-git clone https://github.com/keckelt/Python-Scatterplot-Matrix.git
-cd Python-Scatterplot-Matrix/
+git clone https://github.com/keckelt/Python-Heatmap-and-Scatterplot-Matrix.git
+cd Python-Heatmap-and-Scatterplot-Matrix/
 ```
 
 You can reuse the conda environment from the tutorial:

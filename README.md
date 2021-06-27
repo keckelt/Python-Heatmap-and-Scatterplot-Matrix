@@ -6,8 +6,8 @@ You can either work online, via MyBinder, or locally.
 
 ### MyBinder
 
-Go to: https://mybinder.org/v2/gh/keckelt/Python-Heatmap-and-Scatterplot-Matrix/master
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/keckelt/Python-Heatmap-and-Scatterplot-Matrix/master)
+Go to: https://mybinder.org/v2/gh/keckelt/Python-Heatmap-and-Scatterplot-Matrix/master?urlpath=lab
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/keckelt/Python-Heatmap-and-Scatterplot-Matrix/master?urlpath=lab)
  and open the *template* notebook.
 
 ### Local
@@ -24,7 +24,7 @@ conda activate python-tutorial
 
 Then launch Jupyter :
 ```
-jupyter notebook
+jupyter lab
 ```
 
 Goto http://localhost:8888/ and open the *template* notebook.
